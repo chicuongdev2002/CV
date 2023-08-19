@@ -242,7 +242,7 @@ body::after {
     margin-bottom: 0.1em;
 }
 .name-job h5 {
-    color: rgb(36, 219, 36);
+    color: rgb(227, 112, 183);
     line-height: 25px;
 }
 .info {
@@ -271,29 +271,29 @@ body::after {
     color: black;
 }
 .btn-Follow{
-    background-color: rgb(36, 219, 36);
+    background-color: rgb(227, 112, 183);
     border-radius: 1px;
     border: none;
 }
 .btn-Follow:hover{
-    background-color:  rgb(2, 250, 2);
+    background-color:  rgb(227, 112, 183);
     
 }
 .btn-Message a{
     text-decoration: none;
-    color: rgb(36, 219, 36);
+    color: rgb(227, 112, 183);
 }
 .btn-Message a:hover{
     color: #000;
 }
 .btn-Message{
-    border: 1px solid rgb(36, 219, 36);
+    border: 1px solid rgb(227, 112, 183);
     border-radius: 3px;
     background-color: transparent;
     color: #fff;
 }
 .btn-Message:hover{
-    background-color:  rgb(2, 250, 2);
+    background-color:  rgb(227, 112, 183);
     color: red;
 }
 .skills .fa-brands {
